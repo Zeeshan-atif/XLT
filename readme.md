@@ -9,6 +9,7 @@ Along with pure web testing, XLT also offers SQL Tests, RCP based application Te
 other test meant to run on platforms supporting Java.  
 
 ## Use of XLT 
+
 In order to make Tester's and Developer's life easier, XLT has been designed with awesome 
 features. XLT is used for both Regression and Load Testing. To get detailed understanding of 
 the use of XLT for Regression and Load Testing please click on the respective link below.
