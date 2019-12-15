@@ -13,6 +13,6 @@ In order to make Tester's and Developer's life easier, XLT has been designed wit
 features. XLT is used for both Regression and Load Testing. To get detailed understanding of 
 the use of XLT for Regression and Load Testing please click on the respective link below.
 
-*[Regression Testing](https://lab.xceptance.de/releases/xlt/latest/getting-started/01-test-automation.html)
-*[Load and Performance Testing](https://lab.xceptance.de/releases/xlt/latest/getting-started/02-performance-testing.html)
+* [Regression Testing](https://lab.xceptance.de/releases/xlt/latest/getting-started/01-test-automation.html)
+* [Load and Performance Testing](https://lab.xceptance.de/releases/xlt/latest/getting-started/02-performance-testing.html)
 ___
